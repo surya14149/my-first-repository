@@ -1,2 +1,2 @@
 # my-first-repository
-included the data into my first repo
+This is my first data in this repo
